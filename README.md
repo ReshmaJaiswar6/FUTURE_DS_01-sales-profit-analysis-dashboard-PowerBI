@@ -1,5 +1,6 @@
 # FUTURE_DS_01
-📊 Sales Performance Dashboard | Power BI
+  ### 📊 Sales Performance Dashboard | Power BI
+  
 🔍 Project Summary
 
 Designed and developed an interactive Power BI dashboard to analyze retail sales data and extract actionable business insights. This project demonstrates practical skills in data analysis, visualization, and business intelligence reporting.
